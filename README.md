@@ -6,16 +6,16 @@ and various tools for web search and financial data analysis.
 
 ## Agents
 
-Web Search Agent
-Role: Searches the web for information.
-Features: Includes timestamps and sources in responses.
+### Web Search Agent
+- Role: Searches the web for information.
+- Features: Includes timestamps and sources in responses.
 
 
-Financial Agent
-Role: Processes financial data and provides analysis.
-Features: Uses tables and markdown formatting.
+### Financial Agent
+- Role: Processes financial data and provides analysis.
+- Features: Uses tables and markdown formatting.
 
 
-Multi-AI Agent
-Role: Combines functionalities of Web Search and Financial agents.
-Features: Ensures up-to-date and accurate data.
+### Multi-AI Agent
+- Role: Combines functionalities of Web Search and Financial agents.
+- Features: Ensures up-to-date and accurate data.
